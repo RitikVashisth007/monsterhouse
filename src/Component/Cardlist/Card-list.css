@@ -1,0 +1,9 @@
+.Card-list{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    color: rgba(0, 0, 0, 0.753);
+    grid-gap: 20px;
+    width: 85vw;
+    margin: 0 auto;
+    
+}

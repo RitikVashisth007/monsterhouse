@@ -3,12 +3,6 @@ import React from 'react'
 import Cardlist from './Component/Cardlist/Cardlist';
 
 
-
-
-
-
-
-
 function App() {
 
   return (
